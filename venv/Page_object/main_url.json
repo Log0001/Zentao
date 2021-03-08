@@ -1,0 +1,23 @@
+{
+  "my": {
+    "url":"/zentao/my/"
+  },
+  "product": {
+    "url": "/zentao/product-index-no.html"
+  },
+  "project": {
+    "url": "/zentao/project-index-no.html"
+  },
+  "qa": {
+    "url": "/zentao/qa/"
+  },
+  "doc": {
+    "url": "/zentao/doc/"
+  },
+  "report": {
+    "url": "/zentao/report/"
+  },
+  "company": {
+    "url": "/zentao/company/"
+  }
+}

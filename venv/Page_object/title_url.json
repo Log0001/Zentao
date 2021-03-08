@@ -1,0 +1,62 @@
+{
+  "task": {
+    "url": "/zentao/project-task-327.html"
+  },
+  "kanban": {
+    "url": "/zentao/project-kanban-327.html"
+  },
+  "burn": {
+    "url": "/zentao/project-burn-327.html"
+  },
+  "list": {
+    "url": "/zentao/project-grouptask-327.html"
+  },
+  "groupTask": {
+    "url": "/zentao/project-groupTask-327.html"
+  },
+  "tree": {
+    "url": "/zentao/project-tree-327.html"
+  },
+  "taskeffort": {
+    "url": "/zentao/project-taskeffort-327.html"
+  },
+  "gantt": {
+    "url": "/zentao/project-gantt-327.html"
+  },
+  "calendar": {
+    "url": "/zentao/project-calendar-327.html"
+  },
+  "story": {
+    "url": "/zentao/project-story-327.html"
+  },
+  "qa": {
+    "url": "/zentao/project-build-327.html"
+  },
+  "bug": {
+    "url": "/zentao/project-bug-327.html"
+  },
+  "build": {
+    "url": "/zentao/project-build-327.html"
+  },
+  "testtask": {
+    "url": "/zentao/project-testtask-327.html"
+  },
+  "doc": {
+    "url": "/zentao/doc-objectLibs-project-327-project.html"
+  },
+  "team": {
+    "url": "/zentao/project-team-327.html"
+  },
+  "effort": {
+    "url": "/zentao/project-effort-327.html"
+  },
+  "action": {
+    "url": "/zentao/project-dynamic-327.html"
+  },
+  "product": {
+    "url": "/zentao/project-manageproducts-327.html"
+  },
+  "view": {
+    "url": "/zentao/project-view-327.html"
+  }
+}
