@@ -266,5 +266,5 @@ def test():
     return bug_info_dic
 
 
-test()
+# test()
 
